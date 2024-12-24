@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Since 2023, I teach a course on Python for Open Neuroscience at the [Graduate School in Cognitive Science](https://www.unitn.it/en/research/graduate-school-in-cognitive-science) at the University of Trento. 
 
-Organize your courses by years, topics, or universities, however you like!
+You can find all the course materials -slides, practicals, assignments, etc.- on Github ([2024 course](https://github.com/vigji/python-cimec-2024), [2023 course](https://github.com/vigji/python-cimec-2023)).
